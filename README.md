@@ -56,5 +56,9 @@
 ### 📈 Historial de Actividad
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/00D2FF/Danny2602" alt="Historial de Actividad" width="100%" />
+  <img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Danny2602&theme=react-dark&bg_color=0D1117&color=00D2FF&line=00D2FF&point=FFFFFF&area=true&hide_border=true"
+  alt="GitHub Activity Graph"
+  width="100%"
+/>
 </p>
