@@ -17,8 +17,7 @@
 
 ### 🛠️ Tech Stack
 
-#### **Lenguajes & Frameworks**
-https://ghstats.dev/api/card?username=Danny2602&theme=midnight
+![GitHub Stats Card](https://ghstats.dev/api/card?username=Danny2602&theme=midnight)
 
 #### **Frontend Styling & UI**
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)[cite: 1]
