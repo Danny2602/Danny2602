@@ -55,6 +55,7 @@
 
 ### 📈 Historial de Actividad
 
+
 <p align="center">
- [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Danny2602&theme=react-dark&bg_color=0D1117&color=00D2FF&line=00D2FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/Danny2602)
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Danny2602&theme=github-compact&hide_border=true&area=true" width="100%" />
 </p>
