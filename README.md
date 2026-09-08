@@ -53,9 +53,3 @@
 
 ---
 
-### 📈 Historial de Actividad
-
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Danny2602&theme=github-compact&hide_border=true&area=true" width="100%" />
-</p>
