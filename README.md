@@ -36,9 +36,10 @@
 
 ### 📊 Estadísticas de GitHub
 
+
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Danny2602&show_icons=true&theme=dark&bg_color=0d1117&title_color=00d2ff&icon_color=00d2ff&text_color=ffffff&border_color=00d2ff" alt="Danny's GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Danny2602&layout=compact&theme=dark&bg_color=0d1117&title_color=00d2ff&text_color=ffffff&border_color=00d2ff" alt="Top Languages" />
+  <img src="https://metrics.lecoq.io/Danny2602?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories&base.indepth=true&config.timezone=America%2FGuayaquil" alt="Metrics" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Danny2602&theme=dark&background=0d1117&border=00d2ff&stroke=00d2ff&ring=00d2ff&fire=00d2ff&currStreakLabel=00d2ff" alt="Streak Stats" width="48%" />
 </p>
 
 ---
