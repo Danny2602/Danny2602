@@ -37,8 +37,8 @@
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Danny2602&show_icons=true&theme=dark&bg_color=0d1117&title_color=00d2ff&icon_color=00d2ff&text_color=ffffff&border_color=00d2ff" alt="Danny's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danny2602&layout=compact&theme=dark&bg_color=0d1117&title_color=00d2ff&text_color=ffffff&border_color=00d2ff" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Danny2602&show_icons=true&theme=dark&bg_color=0d1117&title_color=00d2ff&icon_color=00d2ff&text_color=ffffff&border_color=00d2ff" alt="Danny's GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Danny2602&layout=compact&theme=dark&bg_color=0d1117&title_color=00d2ff&text_color=ffffff&border_color=00d2ff" alt="Top Languages" />
 </p>
 
 ---
