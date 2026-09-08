@@ -38,7 +38,7 @@
 
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/Danny2602?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories&base.indepth=true&config.timezone=America%2FGuayaquil" alt="Metrics" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Danny2602&theme=github_dark" alt="GitHub Profile Details" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Danny2602&theme=dark&background=0d1117&border=00d2ff&stroke=00d2ff&ring=00d2ff&fire=00d2ff&currStreakLabel=00d2ff" alt="Streak Stats" width="48%" />
 </p>
 
