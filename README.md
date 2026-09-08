@@ -17,12 +17,6 @@
 
 ### 🛠️ Tech Stack & Herramientas
 
-#### **Card de Estado General**
-<p align="center">
-  <img src="https://ghstats.dev/api/card?username=Danny2602&theme=midnight" alt="GitHub Stats Card" />
-</p>
-
-#### **Lenguajes, Frameworks y Tecnologías**
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,django,ts,js,react,nextjs,nestjs,php,cs,flutter,tailwind,bootstrap,postgres,mysql,git,github&perline=8&theme=dark" alt="My Skills" />
@@ -43,8 +37,8 @@
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Danny2602&show_icons=true&theme=tokyonight&count_private=true&border_color=00D2FF&title_color=00D2FF&icon_color=00D2FF" alt="Danny's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danny2602&layout=compact&theme=tokyonight&border_color=00D2FF&title_color=00D2FF" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Danny2602&show_icons=true&theme=dark&bg_color=0d1117&title_color=00d2ff&icon_color=00d2ff&text_color=ffffff&border_color=00d2ff" alt="Danny's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danny2602&layout=compact&theme=dark&bg_color=0d1117&title_color=00d2ff&text_color=ffffff&border_color=00d2ff" alt="Top Languages" />
 </p>
 
 ---
@@ -52,7 +46,7 @@
 ### 📈 Historial de Actividad
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Danny2602&theme=react-dark&bg_color=0d1117&hide_border=true&color=00d2ff&line=00d2ff&point=ffffff" alt="Historial de Actividad en Azul" width="100%" />
+  <img src="https://ghchart.rshah.org/00D2FF/Danny2602" alt="Historial de Actividad Danny2602" width="100%" />
 </p>
 
 ---
