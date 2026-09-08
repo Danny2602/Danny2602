@@ -18,10 +18,10 @@
 
 ### 👨‍💻 Sobre Mí
 
-* 🎓 **Ingeniero en Sistemas de Información** egresado de la **Universidad Técnica de Cotopaxi**[cite: 1].
-* 🚀 Especializado en desarrollo **Full Stack**, **Arquitectura de Software** y **Microservicios**[cite: 1].
-* 🔬 Investigador en métricas de dependencia y arquitectura hexagonal con **Django REST Framework**[cite: 1].
-* 📍 Latacunga, Ecuador 🇪🇨[cite: 1]
+* 🎓 **Ingeniero en Sistemas de Información** egresado de la **Universidad Técnica de Cotopaxi**.
+* 🚀 Especializado en desarrollo **Full Stack**, **Arquitectura de Software** y **Microservicios**.
+* 🔬 Investigador en métricas de dependencia y arquitectura hexagonal con **Django REST Framework**.
+* 📍 Latacunga, Ecuador 🇪🇨
 
 ---
 
@@ -37,10 +37,10 @@
 
 ### 📌 Proyectos Destacados
 
-* 🏕️ **Camperus**: Sistema para gestión administrativa de campamentos basado en microservicios e integración con Google Drive API[cite: 1].
-* ⚡ **krupa / krupa_server**: Plataforma web y servidor backend modular desarrollado en TypeScript y JavaScript[cite: 1].
-* 🍽️ **restaurant-order-platform**: Plataforma para la automatización de pedidos en restaurantes (TypeScript)[cite: 1].
-* 🩺 **bioserv**: Proyecto web interactivo desarrollado en JavaScript[cite: 1].
+* 🏕️ **Camperus**: Sistema para gestión administrativa de campamentos basado en microservicios e integración con Google Drive API.
+* ⚡ **krupa / krupa_server**: Plataforma web y servidor backend modular desarrollado en TypeScript y JavaScript.
+* 🍽️ **restaurant-order-platform**: Plataforma para la automatización de pedidos en restaurantes (TypeScript).
+* 🩺 **bioserv**: Proyecto web interactivo desarrollado en JavaScript.
 
 ---
 
