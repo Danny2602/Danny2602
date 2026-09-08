@@ -15,35 +15,19 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack & Herramientas
 
 #### **Card de Estado General**
 <p align="center">
   <img src="https://ghstats.dev/api/card?username=Danny2602&theme=midnight" alt="GitHub Stats Card" />
 </p>
 
-#### **Lenguajes & Frameworks**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)[cite: 1]
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=00F5FF)[cite: 1]
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)[cite: 1]
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)[cite: 1]
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)[cite: 1]
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=00F5FF)[cite: 1]
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)[cite: 1]
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)[cite: 1]
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)[cite: 1]
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)[cite: 1]
-
-#### **Frontend Styling & UI**
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)[cite: 1]
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)[cite: 1]
-![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)[cite: 1]
-
-#### **Bases de Datos & Herramientas**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)[cite: 1]
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)[cite: 1]
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)[cite: 1]
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00F5FF)[cite: 1]
+#### **Lenguajes, Frameworks y Tecnologías**
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,django,ts,js,react,nextjs,nestjs,php,cs,flutter,tailwind,bootstrap,postgres,mysql,git,github&perline=8&theme=dark" alt="My Skills" />
+  </a>
+</p>
 
 ---
 
