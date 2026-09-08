@@ -16,12 +16,24 @@
 
 ---
 
-### 👨‍💻 Sobre Mí
-
-* 🎓 **Ingeniero en Sistemas de Información** egresado de la **Universidad Técnica de Cotopaxi**.
-* 🚀 Especializado en desarrollo **Full Stack**, **Arquitectura de Software** y **Microservicios**.
-* 🔬 Investigador en métricas de dependencia y arquitectura hexagonal con **Django REST Framework**.
-* 📍 Latacunga, Ecuador 🇪🇨
+<!-- Sección de Sobre Mí y Stats al lado -->
+<table border="0" width="100%">
+  <tr>
+    <td width="55%" valign="top">
+      <h3>👨‍💻 Sobre Mí</h3>
+      <ul>
+        <li>🎓 <b>Ingeniero en Sistemas de Información</b> egresado de la <b>Universidad Técnica de Cotopaxi</b>.</li>
+        <li>🚀 Especializado en desarrollo <b>Full Stack</b>, <b>Arquitectura de Software</b> y <b>Microservicios</b>.</li>
+        <li>🔬 Investigador en métricas de dependencia y arquitectura hexagonal con <b>Django REST Framework</b>.</li>
+        <li>📍 Latacunga, Ecuador 🇪🇨</li>
+      </ul>
+    </td>
+    <td width="45%" valign="top" align="center">
+      <h3>📊 Estadísticas</h3>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Danny2602&theme=github_dark" width="100%" alt="Estadísticas de GitHub" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -44,12 +56,17 @@
 
 ---
 
-### 📊 Estadísticas de GitHub
+### 📈 Actividad en GitHub
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Danny2602&theme=github_dark" alt="GitHub Profile Details" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Danny2602&theme=dark&background=0d1117&border=00d2ff&stroke=00d2ff&ring=00d2ff&fire=00d2ff&currStreakLabel=00d2ff" alt="GitHub Streak" width="48%" />
-</p>
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Danny2602&theme=github_dark" width="100%" alt="GitHub Profile Details" />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Danny2602&theme=dark&background=0d1117&border=00d2ff&stroke=00d2ff&ring=00d2ff&fire=00d2ff&currStreakLabel=00d2ff" width="100%" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
 ---
-
