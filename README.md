@@ -1,7 +1,17 @@
-# Hi there, I'm Danny Simba 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&customColorList=0&height=220&section=header&text=Danny%20Simba&fontSize=50&fontColor=00D2FF&animation=twinkling&desc=Ingeniero%20en%20Sistemas%20de%20Informaci%C3%B3n%20|%20Full%20Stack%20Developer&descSize=18&descAlign=50&descAlignY=70" width="100%" alt="Header Banner" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00D2FF&center=true&vCenter=true&width=550&lines=Ingeniero+en+Sistemas+de+Informaci%C3%B3n;Full+Stack+%26+Backend+Developer;Apasionado+por+la+Tecnolog%C3%ADa+%26+Software" alt="Typing SVG" />
+  <a href="https://perfil-three-blond.vercel.app/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-0d1117?style=for-the-badge&logo=vercel&logoColor=00D2FF&border=00D2FF" />
+  </a>
+  <a href="https://www.linkedin.com/in/danny-roberto-simba-taipe-81b703352/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:danny.simba02@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -9,8 +19,8 @@
 ### 👨‍💻 Sobre Mí
 
 * 🎓 **Ingeniero en Sistemas de Información** egresado de la **Universidad Técnica de Cotopaxi**[cite: 1].
-* 🚀 Apasionado por la arquitectura de software, desarrollo web/móvil y creación de soluciones eficientes[cite: 1].
-* 🔬 Experiencia en investigación aplicada enfocada en **Microservicios y Arquitectura Hexagonal**[cite: 1].
+* 🚀 Especializado en desarrollo **Full Stack**, **Arquitectura de Software** y **Microservicios**[cite: 1].
+* 🔬 Investigador en métricas de dependencia y arquitectura hexagonal con **Django REST Framework**[cite: 1].
 * 📍 Latacunga, Ecuador 🇪🇨[cite: 1]
 
 ---
@@ -27,19 +37,18 @@
 
 ### 📌 Proyectos Destacados
 
-* **Camperus**: Aplicación para gestión administrativa de campamentos construida con arquitectura de microservicios, Django REST Framework e integración con Google Drive API[cite: 1].
-* **krupa / krupa_server**: Ecosistema fullstack compuesto por interfaz web y servidor backend en TypeScript[cite: 1].
-* **restaurant-order-platform**: Plataforma web orientada a la gestión y automatización de pedidos en restaurantes desarrollada en TypeScript[cite: 1].
-* **bioserv**: Proyecto interactivo desarrollado con JavaScript[cite: 1].
+* 🏕️ **Camperus**: Sistema para gestión administrativa de campamentos basado en microservicios e integración con Google Drive API[cite: 1].
+* ⚡ **krupa / krupa_server**: Plataforma web y servidor backend modular desarrollado en TypeScript y JavaScript[cite: 1].
+* 🍽️ **restaurant-order-platform**: Plataforma para la automatización de pedidos en restaurantes (TypeScript)[cite: 1].
+* 🩺 **bioserv**: Proyecto web interactivo desarrollado en JavaScript[cite: 1].
 
 ---
 
 ### 📊 Estadísticas de GitHub
 
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Danny2602&theme=github_dark" alt="GitHub Profile Details" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Danny2602&theme=dark&background=0d1117&border=00d2ff&stroke=00d2ff&ring=00d2ff&fire=00d2ff&currStreakLabel=00d2ff" alt="Streak Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Danny2602&theme=dark&background=0d1117&border=00d2ff&stroke=00d2ff&ring=00d2ff&fire=00d2ff&currStreakLabel=00d2ff" alt="GitHub Streak" width="48%" />
 </p>
 
 ---
@@ -47,13 +56,5 @@
 ### 📈 Historial de Actividad
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/00D2FF/Danny2602" alt="Historial de Actividad Danny2602" width="100%" />
+  <img src="https://ghchart.rshah.org/00D2FF/Danny2602" alt="Historial de Actividad" width="100%" />
 </p>
-
----
-
-### 📫 Contacto & Redes
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00D2FF)](https://perfil-three-blond.vercel.app/)[cite: 1]
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danny-roberto-simba-taipe-81b703352/)[cite: 1]
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danny.simba02@gmail.com)[cite: 1]
